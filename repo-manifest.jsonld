@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-pipeline/commit/d404c473f05ccb12959a667da1d8b86710a83fdc",
       "git:hexsha": "d404c473f05ccb12959a667da1d8b86710a83fdc",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.1.0"
     },
     {
